@@ -1,9 +1,8 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+## 1 Thessalonians 2:9-12
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/father.svg)](https://travis-ci.org/sermons/father)
+[![Node deps](https://david-dm.org/sermons/father.svg)](https://david-dm.org/sermons/father)
+[![Node devDeps](https://david-dm.org/sermons/father/dev-status.svg)](https://david-dm.org/sermons/father#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
