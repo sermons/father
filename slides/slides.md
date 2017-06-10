@@ -1,3 +1,4 @@
+# The Father's Heart of Discipleship
 ## 1 Thessalonians 2:9-12
 
 ---
