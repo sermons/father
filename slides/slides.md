@@ -1,3 +1,4 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 # The Father's Heart of Discipleship
 ## 1 Thessalonians 2:9-12
 
@@ -69,17 +70,17 @@ while we **proclaimed** to you the gospel of God.
 </div>
 
 >>>
-* nouns + participle:
-    * *kopon* ("toil"): beating, trouble, tired
-    * *moxqon* ("hardship"): difficulty, distress
-    * *ergazo-menoi* ("working")
-        * not to burden any of you
-        * 2Th3:8-12 no work => no eat
-* main verb: *e-khrucamen* ("preached"): heralded / proclaimed out
++ supporting nouns + participle:
+  + *"labor"*: beating, trouble, tired
+  + *"toil"*: hardship, difficulty, distress
+  + *"working"*: i.e., tents
+  + not to **burden** any of you
++ 2Th3:8-12 no work &rArr; no eat
+* main verb: *"preached"*: **herald** / proclaim out
 
 ---
 <!-- .slide: data-background="white" -->
-# **Q1**
+# Q1
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -95,9 +96,9 @@ was our **conduct** toward you believers.
 
 >>>
 + all adverbs:
-    * *`osiws* ("holily"): pious/moral by inner principles / religion 
-    * *dikaiws* ("righteously"): by God's standard 
-    * *a-memptws* ("blamelessly")
+  + *`osiws* ("holily"): pious/moral by inner principles / religion 
+  + *dikaiws* ("righteously"): by God's standard 
+  + *a-memptws* ("blamelessly")
 + main verb is *egenhqhmen*: aorist passive, "were become": God did it
 
 ---
