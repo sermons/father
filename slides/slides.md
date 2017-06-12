@@ -51,7 +51,101 @@ who **calls** you into his own kingdom and glory.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
 ## Father's Heart of Discipleship
-1. Point **One** <span class="ref">(v1)</span>
-2. Point **Two** <span class="ref">(v2)</span>
-3. Point **Three** <span class="ref">(v3)</span>
+1. **Work** <span class="ref">(v9)</span>
+2. **Holiness** <span class="ref">(v10)</span>
+3. **Encouragement** <span class="ref">(v11-12)</span>
 
+---
+For you remember, brothers, <br/>
+our **labor** and **toil**:
+
+we worked **night** and **day**,<br/>
+that we might not be a **burden** to any of you,
+
+while we **proclaimed** to you the gospel of God.
+
+<div class="ref">
+1 Thessalonians 2:9 (ESV)
+</div>
+
+>>>
+* nouns + participle:
+    * *kopon* ("toil"): beating, trouble, tired
+    * *moxqon* ("hardship"): difficulty, distress
+    * *ergazo-menoi* ("working")
+        * not to burden any of you
+        * 2Th3:8-12 no work => no eat
+* main verb: *e-khrucamen* ("preached"): heralded / proclaimed out
+
+---
+<!-- .slide: data-background="white" -->
+# **Q1**
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Outline 2
+
+---
+how **holy** and **righteous** and **blameless** <br/>
+was our **conduct** toward you believers.
+
+<div class="ref">
+1 Thessalonians 2:10 (ESV)
+</div>
+
+>>>
++ all adverbs:
+    * *`osiws* ("holily"): pious/moral by inner principles / religion 
+    * *dikaiws* ("righteously"): by God's standard 
+    * *a-memptws* ("blamelessly")
++ main verb is *egenhqhmen*: aorist passive, "were become": God did it
+
+---
+<!-- .slide: data-background="white" -->
+# **Q2**
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+## Outline 3
+
+---
+<span class="ref">11</span>
+For you know how, <br/>
+like a **father** with his children,
+
+<span class="ref">12</span>
+we **exhorted** each one of you <br/>
+and **encouraged** you and **charged** you
+
+<div class="ref">
+1 Thessalonians 2:11-12 (ESV)
+</div>
+
+>>>
+* individual attention: *`ena 'ekaston* ("each of you"): each and every one
+* all present participle nominative:
+    * *para-kalountes* ("encouraging")
+    * *para-muqounenoi* ("comforting"): speech / narrative to console (of past) or admonish (of future): amongst humans 
+    * *marturomenoi* ("urging"): testifying
+
+---
+to **walk** in a manner worthy of God, <br/>
+who **calls** you into his own kingdom and glory.
+
+<div class="ref">
+1 Thessalonians 2:12 (ESV)
+</div>
+
+>>>
+* purpose is to **walk** ("live lives") worthy of God
+    * hope is into His own kingdom & glory
+* proof is in them: "you remember", "you are witnesses", "you have known"
+    * 2Cor3:1-3 you are our letter
+    * 19-20: you are our hope, joy, & crown 
+
+---
+<!-- .slide: data-background="white" -->
+# **Q3**
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
