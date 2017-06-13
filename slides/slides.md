@@ -76,7 +76,7 @@ while we **proclaimed** to you the gospel of God.
   + *"working"*: i.e., tents
   + not to **burden** any of you
 + 2Th3:8-12 no work &rArr; no eat
-* main verb: *"preached"*: **herald** / proclaim out
++ main verb: *"preached"*: **herald** / proclaim out
 
 ---
 <!-- .slide: data-background="white" -->
@@ -123,11 +123,11 @@ and **encouraged** you and **charged** you
 </div>
 
 >>>
-* individual attention: *`ena 'ekaston* ("each of you"): each and every one
-* all present participle nominative:
-    * *para-kalountes* ("encouraging")
-    * *para-muqounenoi* ("comforting"): speech / narrative to console (of past) or admonish (of future): amongst humans 
-    * *marturomenoi* ("urging"): testifying
++ individual attention: *`ena 'ekaston* ("each of you"): each and every one
++ all present participle nominative:
+  + *para-kalountes* ("encouraging")
+  + *para-muqounenoi* ("comforting"): speech / narrative to console (of past) or admonish (of future): amongst humans 
+  + *marturomenoi* ("urging"): testifying
 
 ---
 to **walk** in a manner worthy of God, <br/>
