@@ -71,12 +71,12 @@ while we **proclaimed** to you the gospel of God.
 
 >>>
 + supporting nouns + participle:
-  + *"labor"*: beating, trouble, tired
-  + *"toil"*: hardship, difficulty, distress
+  + *"labor"* (κόπον): beating, trouble, tired
+  + *"toil"* (μόχθον): hardship, difficulty, distress
   + *"working"*: i.e., tents
-  + not to **burden** any of you
+  + not to **burden** (ἐπιβαρῆσαί) any of you
 + 2Th3:8-12 no work &rArr; no eat
-+ main verb: *"preached"*: **herald** / proclaim out
++ main verb: *"preached"* (ἐκηρύξαμεν): **herald** / proclaim out
 
 ---
 <!-- .slide: data-background="white" -->
@@ -96,10 +96,10 @@ was our **conduct** toward you believers.
 
 >>>
 + all adverbs:
-  + *`osiws* ("holily"): pious/moral by inner principles / religion 
-  + *dikaiws* ("righteously"): by God's standard 
-  + *a-memptws* ("blamelessly")
-+ main verb is *egenhqhmen*: aorist passive, "were become": God did it
+  + *"holily"* (ὁσίως): pious/moral by inner principles / religion
+  + *"righteously"* (δικαίως): by God's standard
+  + *"blamelessly"* (ἀμέμπτως)
++ main verb is (ἐγενήθημεν) aorist passive, "were become": God did it
 
 ---
 <!-- .slide: data-background="white" -->
@@ -125,9 +125,9 @@ and **encouraged** you and **charged** you
 >>>
 + individual attention: *`ena 'ekaston* ("each of you"): each and every one
 + all present participle nominative:
-  + *para-kalountes* ("encouraging")
-  + *para-muqounenoi* ("comforting"): speech / narrative to console (of past) or admonish (of future): amongst humans 
-  + *marturomenoi* ("urging"): testifying
+  + *"encouraging"* (παρακαλοῦντες)
+  + *"comforting"* (παραμυθούμενοι): speech / narrative to console (of past) or admonish (of future): amongst humans
+  + *"urging"* (μαρτυρόμενοι): testifying
 
 ---
 to **walk** in a manner worthy of God, <br/>
@@ -138,11 +138,11 @@ who **calls** you into his own kingdom and glory.
 </div>
 
 >>>
-* purpose is to **walk** ("live lives") worthy of God
-    * hope is into His own kingdom & glory
-* proof is in them: "you remember", "you are witnesses", "you have known"
-    * 2Cor3:1-3 you are our letter
-    * 19-20: you are our hope, joy, & crown 
++ purpose is to **walk** (περιπατεῖν) "live lives") worthy of God
+  + hope is into His own kingdom & glory
++ proof is in them: "you remember", "you are witnesses", "you have known"
+  + 2Cor3:1-3 you are our letter
+  + 19-20: you are our hope, joy, & crown
 
 ---
 <!-- .slide: data-background="white" -->
