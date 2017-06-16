@@ -141,8 +141,42 @@ who **calls** you into his own kingdom and glory.
 + purpose is to **walk** (περιπατεῖν) "live lives") worthy of God
   + hope is into His own kingdom & glory
 + proof is in them: "you remember", "you are witnesses", "you have known"
-  + 2Cor3:1-3 you are our letter
-  + 19-20: you are our hope, joy, & crown
+
+---
+You yourselves are our **letter** of recommendation, <br/>
+written on our **hearts**, <br/>
+to be known and **read** by all.
+
+<div class="ref">
+2 Corinthians 3:2 (ESV)
+</div>
+
+---
+And you show that you are <br/>
+a **letter** from Christ delivered by us,
+
+written not with **ink** but with <br/>
+the **Spirit** of the living God,
+
+not on tablets of **stone** <br/>
+but on tablets of human **hearts**.
+
+<div class="ref">
+2 Corinthians 3:3 (ESV)
+</div>
+
+---
+For what is our **hope** or **joy** <br/>
+or **crown** of boasting <br/>
+before our Lord Jesus at his coming?
+
+Is it not **you**? <br/>
+<span class="ref">20</span>
+For you are our **glory** and **joy**.
+
+<div class="ref">
+1 Thessalonians 2:19-20 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
