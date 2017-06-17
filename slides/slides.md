@@ -52,7 +52,7 @@ who **calls** you into his own kingdom and glory.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
 ## Father's Heart of Discipleship
-1. **Work** <span class="ref">(v9)</span>
+1. **Labour** <span class="ref">(v9)</span>
 2. **Holiness** <span class="ref">(v10)</span>
 3. **Encouragement** <span class="ref">(v11-12)</span>
 
@@ -62,8 +62,6 @@ our **labor** and **toil**:
 
 we worked **night** and **day**,<br/>
 that we might not be a **burden** to any of you,
-
-while we **proclaimed** to you the gospel of God.
 
 <div class="ref">
 1 Thessalonians 2:9 (ESV)
@@ -75,12 +73,23 @@ while we **proclaimed** to you the gospel of God.
   + *"toil"* (μόχθον): hardship, difficulty, distress
   + *"working"*: i.e., tents
   + not to **burden** (ἐπιβαρῆσαί) any of you
++ but "work" is only **participle** (*"working"*)
+  + main verb is
 + 2Th3:8-12 no work &rArr; no eat
+
+---
+while we **proclaimed** to you the gospel of God.
+
+<div class="ref">
+1 Thessalonians 2:9 (ESV)
+</div>
+
+>>>
 + main verb: *"preached"* (ἐκηρύξαμεν): **herald** / proclaim out
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Does my **labour** proclaim the **gospel**?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
