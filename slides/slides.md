@@ -4,10 +4,20 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What is a **good father** like? 
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
+>>>
++ work hard, earn **money**? 
+  + throw **football** with kids? 
+  + obey **wife** + don't **mess up**?
++ not many good **role models**
++ look at one who never had **kids**
+  + &rArr; **mentored** many
+  + learn about **heavenly Father's** love toward us
+  + applies to **all**, not just fathers
 
 ---
 <span class="ref">9</span>
@@ -139,7 +149,7 @@ and **encouraged** you and **charged** you
 + all present participle nominative:
   + *"encouraging"* (παρακαλοῦντες)
   + *"comforting"* (παραμυθούμενοι): speech / narrative to console (of past) or admonish (of future): amongst human
-+ scary when angry
++ e.g., I'm scary when angry
   + *"urging"* (μαρτυρόμενοι): testifying
 
 ---
@@ -156,15 +166,6 @@ who **calls** you into his own kingdom and glory.
 + proof is in them: "you remember", "you are witnesses", "you have known"
 
 ---
-You yourselves are our **letter** of recommendation, <br/>
-written on our **hearts**, <br/>
-to be known and **read** by all.
-
-<div class="ref">
-2 Corinthians 3:2 (ESV)
-</div>
-
----
 And you show that you are <br/>
 a **letter** from Christ delivered by us,
 
@@ -177,6 +178,9 @@ but on tablets of human **hearts**.
 <div class="ref">
 2 Corinthians 3:3 (ESV)
 </div>
+
+>>>
++ letter of recommendation
 
 ---
 For what is our **hope** or **joy** <br/>
@@ -193,7 +197,7 @@ For you are our **glory** and **joy**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **encourage**, **admonish**, and **testify** to my children in the Lord? 
+# Do I **encourage**, **comfort**, and **testify** to my children in the Lord? 
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
