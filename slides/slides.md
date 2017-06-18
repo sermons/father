@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
 # The Father's Heart of Discipleship
 ## 1 Thessalonians 2:9-12
 
@@ -60,13 +60,14 @@ who **calls** you into his own kingdom and glory.
 </div>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" id="outline" -->
 ## Father's Heart of Discipleship
 1. Fruitful **Labour** <span class="ref">(v9)</span>
 2. Training for **Holiness** <span class="ref">(v10)</span>
 3. The Father's **Comfort** <span class="ref">(v11-12)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/negativespace-money.jpg" -->
 For you remember, brothers, <br/>
 our **labor** and **toil**:
 
@@ -85,6 +86,7 @@ that we might not be a **burden** to any of you,
   + not to **burden** (ἐπιβαρῆσαί) any of you
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-JdY-P44WBpY-stormclouds.jpg" -->
 in **toil** and **hardship**,  <br/>
 through many a **sleepless** night,  <br/>
 in **hunger** and thirst, often without food,  <br/>
@@ -104,6 +106,7 @@ of my **anxiety** for all the **churches**.
   + main verb is:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-p90szoOBYgk-bible_standing.jpg" -->
 while we **proclaimed** to you the gospel of God.
 
 <div class="ref">
@@ -114,8 +117,9 @@ while we **proclaimed** to you the gospel of God.
 + main verb: *"preached"* (ἐκηρύξαμεν): **herald** / proclaim out
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-b8rkmfxZjdU-kids.jpg" -->
 If I am to **live** in the flesh, <br/>
-that means **fruitful labor** for me
+that means **fruitful labor** for me ...
 
 <span class="ref">25</span>
 Convinced of this, I know that I will **remain** <br/>
@@ -139,10 +143,14 @@ Philippians 1:22,25 (ESV)
 # Does my **labour** proclaim the **gospel**?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-## Outline 2
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
+## Father's Heart of Discipleship
+1. Fruitful Labour <span class="ref">(v9)</span>
+2. **Training for Holiness** <span class="ref">(v10)</span>
+3. The Father's Comfort <span class="ref">(v11-12)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
 how **holy** and **righteous** and **blameless** <br/>
 was our **conduct** toward you believers.
 
@@ -165,6 +173,7 @@ was our **conduct** toward you believers.
   + &rArr; **seek** out opportunities to show own weakness
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
 While **bodily training** is of some value,  <br/>
 **godliness** is of value in every way,
 
@@ -185,10 +194,14 @@ and also for the **life to come**.
 + God **refines** me to be **holy**, **righteous**, **blameless**
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-## Outline 3
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
+## Father's Heart of Discipleship
+1. Fruitful Labour <span class="ref">(v9)</span>
+2. Training for Holiness <span class="ref">(v10)</span>
+3. **The Father's Comfort** <span class="ref">(v11-12)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
 <span class="ref">11</span>
 For you know how, <br/>
 like a **father** with his children,
@@ -210,6 +223,7 @@ and **encouraged** you and **charged** you
   + *"urging"* (μαρτυρόμενοι): testifying
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Apj4nSemkzk-running_feet.jpg" -->
 to **walk** in a manner worthy of God, <br/>
 who **calls** you into his own kingdom and glory.
 
@@ -223,6 +237,7 @@ who **calls** you into his own kingdom and glory.
 + proof is in them: "you remember", "you are witnesses", "you have known"
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1390463-pezibear-letter_roses.jpg" -->
 And you show that you are <br/>
 a **letter** from Christ delivered by us,
 
@@ -240,6 +255,7 @@ but on tablets of human **hearts**.
 + letter of recommendation
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-4K2lIP0zc_k-child_laugh_bible.jpg" -->
 For what is our **hope** or **joy** <br/>
 or **crown** of boasting <br/>
 before our Lord Jesus at his coming?
@@ -259,4 +275,4 @@ Is it not **you**?
   + is **worthy** of God who **calls** them?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" class="empty" -->
