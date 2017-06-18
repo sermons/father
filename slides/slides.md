@@ -4,14 +4,14 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is a **good father** like? 
+# What is a **good father** like?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
 >>>
-+ work hard, earn **money**? 
-  + throw **football** with kids? 
++ work hard, earn **money**?
+  + throw **football** with kids?
   + obey **wife** + don't **mess up**?
 + not many good **role models**
 + look at one who never had **kids**
@@ -62,9 +62,9 @@ who **calls** you into his own kingdom and glory.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
 ## Father's Heart of Discipleship
-1. **Labour** <span class="ref">(v9)</span>
-2. **Holiness** <span class="ref">(v10)</span>
-3. **Encouragement** <span class="ref">(v11-12)</span>
+1. Fruitful **Labour** <span class="ref">(v9)</span>
+2. Training for **Holiness** <span class="ref">(v10)</span>
+3. The Father's **Comfort** <span class="ref">(v11-12)</span>
 
 ---
 For you remember, brothers, <br/>
@@ -127,7 +127,7 @@ Philippians 1:22,25 (ESV)
 </div>
 
 >>>
-+ what gives **strength** to persevere? 
++ what gives **strength** to persevere?
 + labour is **fruitful**
 + for children's **progress** + **joy**
   + not in academics
@@ -158,12 +158,15 @@ was our **conduct** toward you believers.
 + *"righteously"* (δικαίως): by God's standard
 + *"blamelessly"* (ἀμέμπτως)
 + main verb is (ἐγενήθημεν) aorist passive, "were become": God did it
+  + Christ's **grace**
   + not by **own** strength
-  + e.g., D gout pain
++ e.g., D gout pain, swearing, praying:
+  + **teaching** us how to **cope** with extreme **stress** beyond what we can bear
+  + &rArr; **seek** out opportunities to show own weakness
 
 ---
 While **bodily training** is of some value,  <br/>
-**godliness** is of value in every way, 
+**godliness** is of value in every way,
 
 as it holds promise for the **present** life  <br/>
 and also for the **life to come**.
@@ -174,7 +177,12 @@ and also for the **life to come**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I aspire to be more **holy**? 
+# Do I **train** that God might make me more **holy**?
+
+>>>
++ interplay between **active** + **passive**:
++ I **train**, just as exercise
++ God **refines** me to be **holy**, **righteous**, **blameless**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -248,7 +256,7 @@ Is it not **you**?
 
 >>>
 + such that their daily **walk**
-  + is **worthy** of God who **calls** them? 
+  + is **worthy** of God who **calls** them?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
