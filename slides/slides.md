@@ -112,7 +112,7 @@ was our **conduct** toward you believers.
 
 ---
 <!-- .slide: data-background="white" -->
-# **Q2**
+# Do I aspire to be more **holy**? 
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -189,7 +189,7 @@ For you are our **glory** and **joy**.
 
 ---
 <!-- .slide: data-background="white" -->
-# **Q3**
+# Do I **encourage**, **exhort**, and **charge** my children in the Lord? 
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
