@@ -149,7 +149,7 @@ who **calls** you into his own kingdom and glory.
 </div>
 
 >>>
-+ purpose is to **walk** (περιπατεῖν) "live lives") worthy of God
++ purpose is to **walk** (περιπατεῖν, "live lives") worthy of God
   + hope is into His own kingdom & glory
 + proof is in them: "you remember", "you are witnesses", "you have known"
 
