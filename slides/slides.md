@@ -105,9 +105,11 @@ was our **conduct** toward you believers.
 
 >>>
 + all adverbs:
-  + *"holily"* (ὁσίως): pious/moral by inner principles / religion
-  + *"righteously"* (δικαίως): by God's standard
-  + *"blamelessly"* (ἀμέμπτως)
++ *"holily"* (ὁσίως): pious/moral/duty
+  + by inner principles / religion (e.g., man's law)
+  + LXX: faithful to covenant
++ *"righteously"* (δικαίως): by God's standard
++ *"blamelessly"* (ἀμέμπτως)
 + main verb is (ἐγενήθημεν) aorist passive, "were become": God did it
 
 ---
@@ -189,7 +191,7 @@ For you are our **glory** and **joy**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **encourage**, **exhort**, and **charge** my children in the Lord? 
+# Do I **encourage**, **admonish**, and **testify** to my children in the Lord? 
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
