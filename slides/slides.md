@@ -111,6 +111,7 @@ was our **conduct** toward you believers.
 + *"righteously"* (δικαίως): by God's standard
 + *"blamelessly"* (ἀμέμπτως)
 + main verb is (ἐγενήθημεν) aorist passive, "were become": God did it
++ godly has value
 
 ---
 <!-- .slide: data-background="white" -->
@@ -137,7 +138,8 @@ and **encouraged** you and **charged** you
 + individual attention: *`ena 'ekaston* ("each of you"): each and every one
 + all present participle nominative:
   + *"encouraging"* (παρακαλοῦντες)
-  + *"comforting"* (παραμυθούμενοι): speech / narrative to console (of past) or admonish (of future): amongst humans
+  + *"comforting"* (παραμυθούμενοι): speech / narrative to console (of past) or admonish (of future): amongst human
++ scary when angry
   + *"urging"* (μαρτυρόμενοι): testifying
 
 ---
