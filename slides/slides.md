@@ -275,4 +275,16 @@ Is it not **you**?
   + is **worthy** of God who **calls** them?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
+For you know how, <br/>
+like a **father** with his children,
+
+<span class="ref">12</span>
+we **exhorted** each one of you <br/>
+and **encouraged** you and **charged** you
+
+to **walk** in a manner worthy of God, <br/>
+who **calls** you into his own kingdom and glory.
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" class="empty" -->
