@@ -70,7 +70,7 @@ who **calls** you into his own kingdom and glory.
 For you remember, brothers, <br/>
 our **labor** and **toil**:
 
-we worked **night** and **day**,<br/>
+we **worked** night and day, <br/>
 that we might not be a **burden** to any of you,
 
 <div class="ref">
@@ -83,9 +83,25 @@ that we might not be a **burden** to any of you,
   + *"toil"* (μόχθον): hardship, difficulty, distress
   + *"working"*: i.e., tents
   + not to **burden** (ἐπιβαρῆσαί) any of you
+
+---
+in **toil** and **hardship**,  <br/>
+through many a **sleepless** night,  <br/>
+in **hunger** and thirst, often without food,  <br/>
+in **cold** and exposure.
+
+<span class="ref">28</span>
+And, apart from other things,  <br/>
+there is the daily **pressure** on me <br/>
+of my **anxiety** for all the **churches**.
+
+<div class="ref">
+2 Corinthians 11:27-28 (ESV)
+</div>
+
+>>>
 + but "work" is only **participle** (*"working"*)
-  + main verb is
-+ 2Th3:8-12 no work &rArr; no eat
+  + main verb is:
 
 ---
 while we **proclaimed** to you the gospel of God.
@@ -96,6 +112,27 @@ while we **proclaimed** to you the gospel of God.
 
 >>>
 + main verb: *"preached"* (ἐκηρύξαμεν): **herald** / proclaim out
+
+---
+If I am to **live** in the flesh, <br/>
+that means **fruitful labor** for me
+
+<span class="ref">25</span>
+Convinced of this, I know that I will **remain** <br/>
+and **continue** with you all,  <br/>
+for your **progress** and **joy** in the faith
+
+<div class="ref">
+Philippians 1:22,25 (ESV)
+</div>
+
+>>>
++ what gives **strength** to persevere? 
++ labour is **fruitful**
++ for children's **progress** + **joy**
+  + not in academics
+  + not in having faith in general
+  + "the faith": trust in Christ
 
 ---
 <!-- .slide: data-background="white" -->
@@ -121,7 +158,19 @@ was our **conduct** toward you believers.
 + *"righteously"* (δικαίως): by God's standard
 + *"blamelessly"* (ἀμέμπτως)
 + main verb is (ἐγενήθημεν) aorist passive, "were become": God did it
-+ godly has value
+  + not by **own** strength
+  + e.g., D gout pain
+
+---
+While **bodily training** is of some value,  <br/>
+**godliness** is of value in every way, 
+
+as it holds promise for the **present** life  <br/>
+and also for the **life to come**.
+
+<div class="ref">
+1 Timothy 4:8 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -147,7 +196,7 @@ and **encouraged** you and **charged** you
 >>>
 + individual attention: *`ena 'ekaston* ("each of you"): each and every one
 + all present participle nominative:
-  + *"encouraging"* (παρακαλοῦντες)
+  + *"encouraging"* (παρακαλοῦντες): called alongside
   + *"comforting"* (παραμυθούμενοι): speech / narrative to console (of past) or admonish (of future): amongst human
 + e.g., I'm scary when angry
   + *"urging"* (μαρτυρόμενοι): testifying
@@ -187,17 +236,19 @@ For what is our **hope** or **joy** <br/>
 or **crown** of boasting <br/>
 before our Lord Jesus at his coming?
 
-Is it not **you**? <br/>
-<span class="ref">20</span>
-For you are our **glory** and **joy**.
+Is it not **you**?
 
 <div class="ref">
-1 Thessalonians 2:19-20 (ESV)
+1 Thessalonians 2:19 (ESV)
 </div>
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **encourage**, **comfort**, and **testify** to my children in the Lord? 
+# Do I **encourage**, **comfort**, and **testify** to my children in the Lord?
+
+>>>
++ such that their daily **walk**
+  + is **worthy** of God who **calls** them? 
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
