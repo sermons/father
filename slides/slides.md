@@ -168,9 +168,6 @@ was our **conduct** toward you believers.
 + main verb is (ἐγενήθημεν) aorist passive, "were become": God did it
   + Christ's **grace**
   + not by **own** strength
-+ e.g., D gout pain, swearing, praying:
-  + **teaching** us how to **cope** with extreme **stress** beyond what we can bear
-  + &rArr; **seek** out opportunities to show own weakness
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8TJbrQGKFyU-hiking.jpg" -->
@@ -183,6 +180,11 @@ and also for the **life to come**.
 <div class="ref">
 1 Timothy 4:8 (ESV)
 </div>
+
+>>>
++ e.g., D gout pain, swearing, praying:
+  + **teaching** us how to **cope** with extreme **stress** beyond what we can bear
+  + &rArr; **seek** out opportunities to show own weakness
 
 ---
 <!-- .slide: data-background="white" -->
