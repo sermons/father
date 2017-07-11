@@ -76,10 +76,15 @@
 
     <script>
       Reveal.initialize({
-        history: false,
+        display: 'block',
         maxScale: 4.0,
         slideNumber: 'c/t',
+        defaultTiming: 60,
         pdfMaxPagesPerSlide: 1,
+
+        markdown: {
+          smartypants: true
+        },
 
         math: {
           mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
