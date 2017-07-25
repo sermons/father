@@ -8,7 +8,7 @@
     "talks",
     "ppt"
   ],
-  "version": "1.4.1",
+  "version": "1.4.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "father.seanho.com",
@@ -75,9 +75,10 @@
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "grunt-git": "^1.0.3"
+    "grunt-git": "^1.0.4"
   },
   "scripts": {
+    "postinstall": "grunt install",
     "test": "grunt test",
     "pdf": "grunt pdf",
     "deploy": "grunt deploy"
