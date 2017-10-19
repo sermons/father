@@ -1,6 +1,6 @@
 module.exports = (grunt) ->
   grunt.initConfig
-    pkg: grunt.file.readJSON('package.json')
+    pkg: grunt.file.readJSON 'package.json'
 
     connect:
       serve:
@@ -16,18 +16,20 @@ module.exports = (grunt) ->
           level: 'ignore'
       all: ['Gruntfile.coffee']
 
-    curl:
-      qr:
-        src: 'https://zxing.org/w/chart?cht=qr&chs=350x350&chld=M&choe=UTF-8&chl=https%3A%2F%2F<%= pkg.config.pretty_url %>'
-        dest: 'static/img/<%= pkg.shortname %>-qr.png'
-      phantom:
-        src: 'https://github.com/astefanutti/decktape/releases/download/v1.0.0/phantomjs-linux-x86-64'
-        dest: 'phantomjs'
+    sass:
+      options:
+        includePaths: ['node_modules/reveal.js/css/theme/']
+        outputStyle: 'compressed'
+      theme:
+        files:
+          'static/css/boldblack.css': 'scss/boldblack.scss'
 
     exec:
-      phantom: 'chmod +x phantomjs'
-      print: './phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
-      thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg'
+      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
+      thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" static/img/thumbnail.jpg; true'
+      reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFA=2 -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
+      inline: 'script -qec "inliner -m index.html" /dev/null > <%= pkg.shortname %>.html'
+      qr: 'qrcode https://<%= pkg.config.pretty_url %> static/img/<%= pkg.shortname %>-qr.png'
 
     copy:
       index:
@@ -36,17 +38,22 @@ module.exports = (grunt) ->
         options:
           process: (content, path) ->
             return grunt.template.process content
+      plugin:
+        expand: true
+        flatten: true
+        src: 'node_modules/reveal.js/plugin/notes/*'
+        dest: 'static/js/'
       dist:
         files: [{
           expand: true
           src: [
             'static/**'
             'index.html'
-            'CNAME'
-            '.nojekyll'
+            '<%= pkg.shortname %>.html'
           ]
           dest: 'dist/'
         },{
+          flatten: true
           src: 'static/img/favicon.ico'
           dest: 'dist/'
         }]
@@ -65,68 +72,62 @@ module.exports = (grunt) ->
           remote: 'git@github.com:<%= pkg.repository %>'
           branch: 'gh-pages'
 
-    gitclone:
-      decktape:
-        options:
-          repository: 'https://github.com/astefanutti/decktape'
-          depth: 1
-
   # Generated grunt vars
   grunt.config.merge
     pkg:
-      shortname: '<%= pkg.name.replace(new RegExp(".*\/"), "") %>'
+      shortname: grunt.config('pkg.name').replace(/.*\//, '')
+      pdf: 'static/<%= pkg.shortname %>.pdf'
       commit: (process.env.TRAVIS_COMMIT || "testing").substr(0,7)
+    img: (id) ->
+      'https://sermons.seanho.com/img/' + id
+    bg: (id) ->
+      'data-background-image="' + grunt.config('img')("bg/" + id) + '"'
+    bible: (ref, text=ref, ver='NIV') ->
+      '[' + text + '](' +
+      'https://mobile.biblegateway.com/passage/?search=' +
+      ref.replace(/[^\w.:,-]+/g, '') + '&version=' + ver + ' "ref")'
 
   # Load all grunt tasks.
   require('load-grunt-tasks')(grunt)
-  grunt.loadNpmTasks('grunt-git')
-
-  grunt.registerTask 'serve',
-    'Run presentation locally', [
-      'copy:index'
-      'connect:serve'
-    ]
+  grunt.loadNpmTasks 'grunt-git'
+  grunt.loadNpmTasks 'grunt-sass'
 
   grunt.registerTask 'cname',
-    'Create CNAME from NPM config if needed.', ->
+    'Create CNAME for Github Pages', ->
       if grunt.config 'pkg.config.cname'
-        grunt.file.write 'CNAME', grunt.config 'pkg.config.cname'
+        grunt.file.write 'dist/CNAME', grunt.config 'pkg.config.cname'
 
   grunt.registerTask 'nojekyll',
-    'Create .nojekyll file for Github Pages', ->
-      grunt.file.write '.nojekyll', ''
+    'Disable Jekyll processing on Github Pages', ->
+      grunt.file.write 'dist/.nojekyll', ''
 
   grunt.registerTask 'install',
-    '*Install* dependencies', [
-      'curl:phantom'
-      'exec:phantom'
-      'gitclone:decktape'
-    ]
-
-  grunt.registerTask 'pdf',
-    'Render a **PDF** copy of the presentation (using PhantomJS)', [
-      'serve'
-      'exec:print'
-      'exec:thumbnail'
+    '*Compile* templates', [
+      'copy:index'
+      'copy:plugin'
+      'sass:theme'
     ]
 
   grunt.registerTask 'test',
-    '*Test* rendering to PDF', [
+    '*Render* to PDF and inlined HTML', [
       'coffeelint'
-      'pdf'
+      'connect:serve'
+      'exec:print'
+      'exec:reducePDF'
+      'exec:thumbnail'
     ]
 
   grunt.registerTask 'dist',
     'Save presentation files to *dist* directory.', [
-      'curl:qr'
-      'cname'
-      'nojekyll'
+      'exec:qr'
       'copy:dist'
     ]
 
   grunt.registerTask 'deploy',
     'Deploy to Github Pages', [
       'dist'
+      'cname'
+      'nojekyll'
       'buildcontrol:github'
     ]
 

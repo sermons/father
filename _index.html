@@ -6,9 +6,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
-    <link rel=icon href="static/img/cross.svg" sizes="any" type="image/svg+xml" />
-
-    <% revealjs = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0' %>
+    <link rel=icon href="static/img/favicon.svg" sizes="any" type="image/svg+xml" />
 
     <% pkg.config.css.forEach( function(css) { %>
     <link rel="stylesheet" href="<%= css.href %>" integrity="<%= css.integrity %>" crossorigin="anonymous" />
@@ -16,19 +14,6 @@
 
     <link rel="stylesheet" href="static/css/boldblack.css" id="theme" />
     <link rel="stylesheet" href="static/css/slides.css" />
-
-    <!-- Printing and PDF exports -->
-    <script>
-      var link = document.createElement( 'link' );
-      link.rel = 'stylesheet';
-      link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '<%= revealjs %>/css/print/pdf.min.css' : '<%= revealjs%>/css/print/paper.min.css';
-      document.getElementsByTagName( 'head' )[0].appendChild( link );
-    </script>
-
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
 
   </head>
   <body>
@@ -42,11 +27,11 @@
       <div class="slides">
         <% pkg.config.slides.forEach( function(md) { %>
         <section data-markdown data-charset="utf8"
-          data-separator="^\s{0,3}-\s*-\s*-[-\s]*$"
-          data-separator-vertical="^\s{0,3}\*\s*\*\s*\*[\*\s]*$"
-          data-separator-notes="^\s{0,3}>\s*>\s*>[>\s]*$">
+          data-separator="^---[-\s]*$"
+          data-separator-vertical="^\*\*\*[\*\s]*$"
+          data-separator-notes="^>>>[>\s]*$">
           <textarea type="text/template">
-        <%= grunt.file.read(md) %>
+        <%= grunt.template.process(grunt.file.read(md)) %>
           </textarea>
         </section>
         <% } ) %>
@@ -76,18 +61,16 @@
 
     <script>
       Reveal.initialize({
-        display: 'block',
+        display: 'flex',
         maxScale: 4.0,
         slideNumber: 'c/t',
-        defaultTiming: 60,
-        pdfMaxPagesPerSlide: 1,
 
         markdown: {
           smartypants: true
         },
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js',
           config: 'AM_SVG'
         },
 
@@ -97,18 +80,22 @@
           secret: Reveal.getQueryHash().s || null
         },
 
+        <% mpx = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/plugin/multiplex' %>
+
         dependencies: [
-          { src: '<%= revealjs %>/plugin/markdown/marked.js' },
-          { src: '<%= revealjs %>/plugin/markdown/markdown.min.js' },
-          { src: 'https://sermons.seanho.com/lib/reveal.js-3.5.0/plugin/notes/notes.js', async:true },
-          { src: '<%= revealjs %>/plugin/math/math.min.js', async:true },
-          { src: '<%= revealjs %>/plugin/highlight/highlight.min.js', async:true, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: 'https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.2/socket.io.slim.js', async:true },
-          Reveal.getQueryHash().s ?  { src: '<%= revealjs %>/plugin/multiplex/master.min.js', async:true } : { src: '<%= revealjs %>/plugin/multiplex/client.min.js', async:true },
-          { src: 'https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js', condition: function() { return !document.body.classList; } }
+          { src: Reveal.getQueryHash().s ? '<%= mpx %>/master.min.js' : '<%= mpx %>/client.min.js', async:true }
         ]
       });
-
     </script>
+
+    <% pkg.config.plugins.forEach( function(js) { %>
+    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
+    <% } ) %>
+    <script src="static/js/notes.js"></script>
+
+    <script>
+      hljs.initHighlightingOnLoad();
+    </script>
+
   </body>
 </html>

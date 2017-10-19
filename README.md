@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/father.svg)](https://travis-ci.org/sermons/father)
 [![Node deps](https://david-dm.org/sermons/father.svg)](https://david-dm.org/sermons/father)
-[![Node devDeps](https://david-dm.org/sermons/father/dev-status.svg)](https://david-dm.org/sermons/father#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/father/dev-status.svg)](https://david-dm.org/sermons/father?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

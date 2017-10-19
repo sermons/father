@@ -8,13 +8,13 @@
     "talks",
     "ppt"
   ],
-  "version": "1.4.2",
+  "version": "1.6.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "father.seanho.com",
     "cname": "father.seanho.com",
     "multiplex": {
-      "url": "https://mp.seanho.com:8443/",
+      "url": "https://mp.seanho.com/",
       "id": "918185c726ba928c"
     },
     "git": {
@@ -38,6 +38,7 @@
     "slides": [
       "slides/slides.md"
     ],
+    "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0",
     "css": [
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
@@ -54,33 +55,56 @@
     ],
     "js": [
       {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js",
+        "integrity": "sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw="
+      },
+      {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js",
         "integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
       },
       {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.slim.js",
+        "integrity": "sha256-KaSi3am04I2b10TZZ7JqEYrnNk94r0QOeIY3PtwGR/M="
+      },
+      {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/js/reveal.min.js",
         "integrity": "sha256-Kq2PSVZ3iKoRCW+zD98fwPs26/aw43ATQP9mBQgnVZc="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/plugin/markdown/marked.js",
+        "integrity": "sha256-c6mIBJmjwIEMzRFz4hJTWcWDvcGnqJUicbkA6bsQoYE="
+      },
+      {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0/plugin/markdown/markdown.min.js",
+        "integrity": "sha256-qBewJIUtcHklIYjfHuHX94KMSguxbhNayl3fXcjVuFs="
       }
+    ],
+    "plugins": [
+      "math/math.min.js",
+      "highlight/highlight.min.js"
     ]
   },
   "license": "CC-BY-SA-4.0",
   "private": true,
   "devDependencies": {
+    "reveal.js": "^3.5.0",
     "grunt": "^1.0.1",
     "grunt-contrib-connect": "^1.0.2",
     "grunt-contrib-copy": "^1.0.0",
     "load-grunt-tasks": "^3.5.2",
-    "grunt-exec": "^2.0.0",
-    "grunt-curl": "^2.2.1",
+    "grunt-sass": "^2.0.0",
+    "grunt-exec": "^3.0.0",
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
-    "coffeelint": "^1.16.0",
-    "grunt-git": "^1.0.4"
+    "coffeelint": "^2.0.6",
+    "grunt-git": "^1.0.7",
+    "qrcode": "^0.9.0",
+    "inliner": "^1.12.5",
+    "decktape": "^2.4.3"
   },
   "scripts": {
     "postinstall": "grunt install",
     "test": "grunt test",
-    "pdf": "grunt pdf",
     "deploy": "grunt deploy"
   }
 }
