@@ -30,7 +30,7 @@
           data-separator="^---[-\s]*$"
           data-separator-vertical="^\*\*\*[\*\s]*$"
           data-separator-notes="^>>>[>\s]*$">
-          <textarea type="text/template">
+          <textarea data-template>
         <%= grunt.template.process(grunt.file.read(md)) %>
           </textarea>
         </section>
@@ -41,7 +41,7 @@
         <span class="links">
           <a href="https://github.com/<%= pkg.repository %>">
             <i class="fa fa-github fa-inverse"></i></a>
-          <a href="static/<%= pkg.shortname %>.pdf">
+          <a href="<%= pkg.pdf %>">
             <i class="fa fa-file-pdf-o fa-inverse"></i></a>
         </span>
         <span class="commit"><%= pkg.commit %></span>
@@ -64,6 +64,7 @@
         display: 'flex',
         maxScale: 4.0,
         slideNumber: 'c/t',
+        controlsTutorial: false,
 
         markdown: {
           smartypants: true
