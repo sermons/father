@@ -8,16 +8,9 @@ module.exports = (grunt) ->
           port: 9000
           hostname: 'localhost'
 
-    coffeelint:
-      options:
-        indentation:
-          value: 2
-        max_line_length:
-          level: 'ignore'
-      all: ['Gruntfile.coffee']
-
     sass:
       options:
+        implementation: require('node-sass')
         includePaths: ['node_modules/reveal.js/css/theme/']
         outputStyle: 'compressed'
       theme:
@@ -27,8 +20,8 @@ module.exports = (grunt) ->
     exec:
       print: 'decktape -s 1024x768 reveal "http://localhost:9000/" <%= pkg.pdf %> --no-sandbox; true'
       thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" static/img/thumbnail.jpg --no-sandbox; true'
-      reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFA=2 -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
-      qr: 'qrcode -o static/img/<%= pkg.shortname %>-qr.png https://<%= pkg.config.pretty_url %>'
+      reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
+      qr: 'echo https://<%= pkg.config.pretty_url %> | qrcode -o static/img/<%= pkg.shortname %>-qr.png'
 
     copy:
       index:
@@ -48,12 +41,12 @@ module.exports = (grunt) ->
           src: [
             'static/**'
             'index.html'
-            '<%= pkg.shortname %>.html'
           ]
           dest: 'dist/'
         },{
+          expand: true
           flatten: true
-          src: 'static/img/favicon.ico'
+          src: 'static/img/favicon.*'
           dest: 'dist/'
         }]
 
@@ -93,7 +86,6 @@ module.exports = (grunt) ->
 
   grunt.registerTask 'test',
     '*Render* to PDF', [
-      'coffeelint'
       'connect:serve'
       'exec:print'
       'exec:reducePDF'
