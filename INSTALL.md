@@ -3,26 +3,30 @@
 ## Intro
 Reveal-skel is a forkable template for a presentation based on the [Reveal.js](http://lab.hakim.se/reveal-js/) HTML framework.
 
-[Travis integration](.travis.yml) deploys to Github Pages via an [NPM script](package.json), calling a [Grunt task](Gruntfile.coffee) to copy the rendered site
-into a subdir and push to the gh-pages branch.
+[Travis-CI config](.travis.yml)
+runs a [Node.js project](package.json), 
+calling [Grunt tasks](Gruntfile.coffee) to
+build [the presentation](template/index.html) as a website and
+deploy it on Github Pages via the `gh-pages` branch.
 
 ## Usage
 * **Fork** the [reveal-skel](https://github.com/sermons/reveal-skel) project
-  + Or `git remote add upstream https://github.com/sermons/reveal-skel`
+  + Or in your own git repo, run `git remote add upstream https://github.com/sermons/reveal-skel`
 * Setup a **Github token** for Travis [(see below)](#github-token-for-travis)
 * **Edit** [package.json](package.json):
-  + Package name, git repo, cname/URL
+  + Package name, git repo, CNAME
   + Change `sample.md` to `slides.md`
   + Generate a new **multiplex ID** [(see below)](#multiplex-remote-control)
 * Your slide **content** goes in [slides/slides.md](slides/slides.md)
 * You may also want to **customize**:
   + user name, email in [package.json](package.json)
-  + [README](README.md), [favicon](static/img/favicon.ico)
+    + `pretty_url` defaults to the CNAME if it exists
+  + [README](README.md), [favicon](static/favicon.ico)
 * Static **assets** (CSS, JS, images, etc) go in [`static`](static)
-  + Grunt will copy this dir as-is to the deployed site
+  + Grunt will copy this dir as-is to the root of the deployed site
 
 ## Github token for Travis
-+ **Connect** [Travis](https://travis-ci.org) to your Github account, if you haven't already
++ **Connect** [Travis](https://travis-ci.com) to your Github account, if you haven't already
 + On Github, create an access token: *Settings* &rarr; *Developer Settings* &rarr; *Personal access tokens* &rarr; **Generate new token**
   + *Token description*: e.g., "Travis push to gh-pages"
   + *Select scopes*: check "**repo**"
@@ -32,7 +36,7 @@ into a subdir and push to the gh-pages branch.
 + [Install](https://github.com/travis-ci/travis.rb#installation) the Travis **gem**
   + See note in the [travis-key script](travis-key) for details
 + Run `./travis-key` to [securely store the token in Travis](https://docs.travis-ci.com/user/encrypting-files/):
-+ Commit, **push**, and check the [build log](https://travis-ci.org/) for errors
++ Commit, **push**, and check the [build log](https://travis-ci.com/) for errors
 
 ## Bot user for Travis deploy
 If you don't want Travis to have full write-access 
